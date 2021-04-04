@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GY-Jeong&count_private=true&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GY-Jeong&theme=react&show_icons=true&count_private=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
