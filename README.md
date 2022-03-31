@@ -2,4 +2,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GY-Jeong&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GY-Jeong&hide=jupyter%20notebook&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
